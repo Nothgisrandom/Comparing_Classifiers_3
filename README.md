@@ -44,6 +44,9 @@ We evaluated all models using accuracy and training time. The table below summar
 ### 📊 Test Accuracy by Model
 
 ![Test Accuracy Chart](test_accuracy_chart_updated.png)
+![Confusion_Matrix](conf.png)
+![ROC](roc.png)
+
 
 ## 🧠 Findings
 
